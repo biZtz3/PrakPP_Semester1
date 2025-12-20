@@ -1,1 +1,10 @@
-wait
+int main() {
+  string nama = "Rafiq Ghifari";
+  string NPM = "2517051086";  
+  cout << "Selamat Datang Di Praktikum Pengenalan Pemrograman" << endl;
+  cout << "Nama saya adalah " << nama << endl;
+  cout << "NPM saya adalah " << NPM << endl << endl;
+  
+  cout << "Unila Indah" << endl;
+  cout << "Be Strong" << endl;
+}
