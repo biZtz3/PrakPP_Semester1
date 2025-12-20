@@ -1,6 +1,6 @@
 int main() {
-  string nama = "Rafiq Ghifari";
-  string NPM = "2517051086";  
+  string nama = "Nailah Tsabitah Erwin";
+  string NPM = "2557051005";  
   cout << "Selamat Datang Di Praktikum Pengenalan Pemrograman" << endl;
   cout << "Nama saya adalah " << nama << endl;
   cout << "NPM saya adalah " << NPM << endl << endl;
